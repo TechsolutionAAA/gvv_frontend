@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bd58556e.css",
+    "main.js": "/static/js/main.0ab4aa9f.js",
+    "static/media/slider1.jpg": "/static/media/slider1.76ac401d0d3e2962d8f1.jpg",
+    "static/media/video.png": "/static/media/video.0693ef27563be26388cc.png",
+    "static/media/gvv_back.png": "/static/media/gvv_back.c868d74764061b792610.png",
+    "static/media/slider3.jpg": "/static/media/slider3.8481cd30b79a0e884c5d.jpg",
+    "static/media/presale-gvv.png": "/static/media/presale-gvv.38cb4a104fdd10063f5c.png",
+    "static/media/slider2.jpg": "/static/media/slider2.0165fd15c4fc235eee0b.jpg",
+    "static/media/overview.png": "/static/media/overview.e2e6f5b5abf48d7aadef.png",
+    "static/media/stake-overview.png": "/static/media/stake-overview.74c60e80ec2903905a90.png",
+    "index.html": "/index.html",
+    "static/media/getFetch.cjs": "/static/media/getFetch.c4cca45e22bc1b2c7d0d.cjs",
+    "main.bd58556e.css.map": "/static/css/main.bd58556e.css.map",
+    "main.0ab4aa9f.js.map": "/static/js/main.0ab4aa9f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd58556e.css",
+    "static/js/main.0ab4aa9f.js"
+  ]
+}
