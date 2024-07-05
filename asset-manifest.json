@@ -1,22 +1,30 @@
 {
   "files": {
-    "main.css": "/static/css/main.bd58556e.css",
-    "main.js": "/static/js/main.0ab4aa9f.js",
+    "main.css": "/static/css/main.a9679ff5.css",
+    "main.js": "/static/js/main.a5336d02.js",
     "static/media/slider1.jpg": "/static/media/slider1.76ac401d0d3e2962d8f1.jpg",
     "static/media/video.png": "/static/media/video.0693ef27563be26388cc.png",
     "static/media/gvv_back.png": "/static/media/gvv_back.c868d74764061b792610.png",
     "static/media/slider3.jpg": "/static/media/slider3.8481cd30b79a0e884c5d.jpg",
     "static/media/presale-gvv.png": "/static/media/presale-gvv.38cb4a104fdd10063f5c.png",
     "static/media/slider2.jpg": "/static/media/slider2.0165fd15c4fc235eee0b.jpg",
-    "static/media/overview.png": "/static/media/overview.e2e6f5b5abf48d7aadef.png",
-    "static/media/stake-overview.png": "/static/media/stake-overview.74c60e80ec2903905a90.png",
+    "static/media/overview.png": "/static/media/overview.94e765c7934990d850f8.png",
+    "static/media/ethereum.png": "/static/media/ethereum.0cc22c760395f308f3be.png",
+    "static/media/BankGothic Bold.ttf": "/static/media/BankGothic Bold.d41652304aba3b6ca24f.ttf",
+    "static/media/stake-overview.png": "/static/media/stake-overview.8323dabfe9737c8537c0.png",
+    "static/media/bank gothic medium bt.ttf": "/static/media/bank gothic medium bt.b866cf9691d7ed0bcf97.ttf",
+    "static/media/BankGothic Md BT.ttf": "/static/media/BankGothic Md BT.d58eea63a0f1090f3671.ttf",
+    "static/media/BankGothicMediumBT.ttf": "/static/media/BankGothicMediumBT.956ee64c7ce4c7e33919.ttf",
+    "static/media/bnb.png": "/static/media/bnb.20331204fde5ec8246ac.png",
+    "static/media/Bank Gothic Light Regular.otf": "/static/media/Bank Gothic Light Regular.1008d50b7f3e37ea9828.otf",
+    "static/media/matic.webp": "/static/media/matic.7f507bdf960033151654.webp",
     "index.html": "/index.html",
     "static/media/getFetch.cjs": "/static/media/getFetch.c4cca45e22bc1b2c7d0d.cjs",
-    "main.bd58556e.css.map": "/static/css/main.bd58556e.css.map",
-    "main.0ab4aa9f.js.map": "/static/js/main.0ab4aa9f.js.map"
+    "main.a9679ff5.css.map": "/static/css/main.a9679ff5.css.map",
+    "main.a5336d02.js.map": "/static/js/main.a5336d02.js.map"
   },
   "entrypoints": [
-    "static/css/main.bd58556e.css",
-    "static/js/main.0ab4aa9f.js"
+    "static/css/main.a9679ff5.css",
+    "static/js/main.a5336d02.js"
   ]
 }
